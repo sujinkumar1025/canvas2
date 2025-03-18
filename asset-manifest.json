@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/canvas2/static/css/main.9bb14d06.css",
+    "main.js": "/canvas2/static/js/main.67793aa6.js",
+    "index.html": "/canvas2/index.html",
+    "main.9bb14d06.css.map": "/canvas2/static/css/main.9bb14d06.css.map",
+    "main.67793aa6.js.map": "/canvas2/static/js/main.67793aa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb14d06.css",
+    "static/js/main.67793aa6.js"
+  ]
+}
